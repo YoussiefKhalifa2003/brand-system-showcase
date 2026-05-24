@@ -35,7 +35,7 @@ Nothing in the live content is tied to a specific industry. The system carries t
 ## File structure
 
 ```text
-website_dev3/
+brand-system-showcase/
 ├── index.html
 ├── styles.css
 ├── script.js
@@ -72,19 +72,9 @@ The author attribution is intentionally everywhere:
 - Console signature on load
 - `LICENSE` ownership
 
-## Deploy to GitHub Pages
+## Live demo
 
-```bash
-cd website_dev3
-git init
-git add .
-git commit -m "Initial YK Studio Matrix website"
-git branch -M main
-git remote add origin https://github.com/YOURUSER/YOURREPO.git
-git push -u origin main
-```
-
-Then enable GitHub Pages from `Settings -> Pages -> main / root`.
+[youssiefkhalifa2003.github.io/brand-system-showcase](https://youssiefkhalifa2003.github.io/brand-system-showcase/)
 
 ## License
 
